@@ -11,6 +11,23 @@ x = 4
 print(y)
 ```
 
+## Output/Functions
+```
+Write a function that prints whether a number is even or odd
+```
+
+## Loops
+```
+Given a list X. Write a loop that prints every integer one at a time
+
+For number in x:
+  print(number0
+```
+
+```
+Make a loop that counts from  to 100
+```
+
 ## Conditionals
 ```
 """
@@ -44,4 +61,7 @@ def better(n):
     for num in range(n + 1):
         sum += num
     return sum
+```
+```
+Given two integer numbers return their product only if the product is greater than 1000, else return their sum.
 ```
