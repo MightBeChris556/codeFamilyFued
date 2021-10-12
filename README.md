@@ -27,4 +27,9 @@ elif number >= 20 or number < 12:
 else:
   print(3)
 ```
-
+## Logic Problems
+```
+At McDonalds one can buy chicken nuggets in packages containing 6, 9 or 20 pieces.  Write a 
+Python function that accepts an integer, num, as an argument and decides whether or not it is 
+possible to buy num nuggets at McDonalds
+```
