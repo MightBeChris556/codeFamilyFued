@@ -1,7 +1,14 @@
 # codeFamilyFued
 
+## Trivia
+
+
 
 ## Variables
+- What data type is "True"
+- What data type is "7"
+- 
+
 
 ### What is the output
 ```
