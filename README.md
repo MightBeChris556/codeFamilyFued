@@ -7,7 +7,9 @@
 ## Variables
 - What data type is "True"
 - What data type is "7"
-- 
+- Describe a boolean
+- Describe a String
+- Describe an Integer
 
 
 ### What is the output
@@ -92,4 +94,7 @@ Then, provide the conversion to British Pounds and then to Bison Dollars.
 
 ```
 Create a function that accepts a measurement value in inches and returns the equivalent of the measurement value in feet.
+```
+```
+
 ```
