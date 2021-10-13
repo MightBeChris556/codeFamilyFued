@@ -50,6 +50,10 @@ elif number >= 20 or number < 12:
   print(2)
 else:
   print(3)
+  
+```
+```
+
 ```
 ## Logic Problems
 ```
@@ -71,4 +75,12 @@ def better(n):
 ```
 ```
 Given two integer numbers return their product only if the product is greater than 1000, else return their sum.
+```
+
+```
+Given 2 ints, a and b, return True if one if them is 10 or if their sum is 10.
+
+makes10(9, 10) → True
+makes10(9, 9) → False
+makes10(1, 9) → True
 ```
