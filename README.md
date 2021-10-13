@@ -84,3 +84,12 @@ makes10(9, 10) → True
 makes10(9, 9) → False
 makes10(1, 9) → True
 ```
+```
+At the time of this writing, a US Dollar is worth 0.73 British Pounds. For this assignment, 
+create a conversion program that prompts the user to enter how many US Dollars they have. 
+Then, provide the conversion to British Pounds and then to Bison Dollars.
+```
+
+```
+Create a function that accepts a measurement value in inches and returns the equivalent of the measurement value in feet.
+```
