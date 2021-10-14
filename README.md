@@ -21,6 +21,23 @@ x = 4
 print(y)
 ```
 
+## Math
+```
+What is the output
+y = 4
+x = y
+x = 3
+print(x + y)
+
+```
+```
+x = 4
+y = 2
+a = x
+x = 3
+print(x+a + (a*y))
+```
+
 ## Output/Functions
 ```
 Write a function that prints whether a number is even or odd
