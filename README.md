@@ -36,6 +36,8 @@ def checkEven(x):
 print the second number in this list
 
 x = [3,6,9,10]
+
+print(x[1])
 ```
 ```
 Write a program that checks whether the integer 5 is an element in a list. Assume the list is called x
