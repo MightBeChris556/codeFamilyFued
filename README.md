@@ -35,6 +35,11 @@ For number in x:
 
 ```
 Make a loop that counts from  to 100
+
+x = 0
+while x <101:
+  print(x)
+  x +=1
 ```
 
 ## Conditionals
@@ -67,7 +72,6 @@ possible to buy num nuggets at McDonalds
 Write a function, add_it_up(), that takes a single integer as input and 
 returns the sum of the integers from zero to the input parameter.
 
-The function should return 0 if a non-integer is passed in.
 
 def better(n):
     sum = 0
@@ -77,6 +81,11 @@ def better(n):
 ```
 ```
 Given two integer numbers return their product only if the product is greater than 1000, else return their sum.
+
+if x*y > 1000:
+  return x*y
+ else:
+  return x+y
 ```
 
 ```
@@ -85,6 +94,12 @@ Given 2 ints, a and b, return True if one if them is 10 or if their sum is 10.
 makes10(9, 10) → True
 makes10(9, 9) → False
 makes10(1, 9) → True
+
+
+if a == 10 or b == 10:
+  return True
+elif a + b == 10:
+  return True
 ```
 ```
 At the time of this writing, a US Dollar is worth 0.73 British Pounds. For this assignment, 
@@ -94,7 +109,11 @@ Then, provide the conversion to British Pounds and then to Bison Dollars.
 
 ```
 Create a function that accepts a measurement value in inches and returns the equivalent of the measurement value in feet.
+
+def convert(inches):
+  return inches/12
 ```
 ```
+
 
 ```
