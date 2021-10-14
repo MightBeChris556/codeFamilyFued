@@ -23,6 +23,11 @@ print(y)
 ## Output/Functions
 ```
 Write a function that prints whether a number is even or odd
+def checkEven(x):
+  if x % 2 == 0:
+    print("Number is even")
+  else:
+    print("Number is odd")
 ```
 
 ## Loops
@@ -30,7 +35,7 @@ Write a function that prints whether a number is even or odd
 Given a list X. Write a loop that prints every integer one at a time
 
 For number in x:
-  print(number0
+  print(number)
 ```
 
 ```
