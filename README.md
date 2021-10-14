@@ -10,6 +10,7 @@
 - Describe a boolean
 - Describe a String
 - Describe an Integer
+- 
 
 
 ### What is the output
@@ -28,6 +29,21 @@ def checkEven(x):
     print("Number is even")
   else:
     print("Number is odd")
+```
+
+## Arrays
+```
+print the second number in this list
+
+x = [3,6,9,10]
+
+```
+```
+How would I add a number to the end of this list?
+
+x = [7,4,7,11]
+
+x.append(5)
 ```
 
 ## Loops
