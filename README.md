@@ -10,7 +10,7 @@
 - Describe a boolean
 - Describe a String
 - Describe an Integer
-- 
+
 
 
 ### What is the output
@@ -36,8 +36,22 @@ def checkEven(x):
 print the second number in this list
 
 x = [3,6,9,10]
+```
+```
+Write a program that checks whether the integer 5 is an element in a list. Assume the list is called x
+
+for number in x:
+  if number == 5:
+    print("Weve found it")
+  else:
+    print("its not here")
+
+
+
 
 ```
+
+
 ```
 How would I add a number to the end of this list?
 
