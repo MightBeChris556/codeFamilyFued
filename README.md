@@ -24,6 +24,7 @@ print(y)
 ## Output/Functions
 ```
 Write a function that prints whether a number is even or odd
+
 def checkEven(x):
   if x % 2 == 0:
     print("Number is even")
@@ -94,6 +95,8 @@ elif number >= 20 or number < 12:
   print(2)
 else:
   print(3)
+  
+it prints 2
   
 ```
 ```
