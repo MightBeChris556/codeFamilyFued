@@ -172,5 +172,26 @@ def convert(inches):
 ```
 ```
 
+    Write the code needed to print in the console all the numbers from 0 to 100:
+
+    For multiples of 3, instead of the number, print "Fizz".
+
+    For multiples of 5, print "Buzz".
+
+    For numbers which are multiples of both 3 and 5, print "FizzBuzz".
+    
+    for fizzbuzz in range(101):
+    if fizzbuzz % 3 == 0 and fizzbuzz % 5 == 0:
+        print("fizzbuzz")
+        continue
+    elif fizzbuzz % 3 == 0:
+        print("fizz")
+        continue
+    elif fizzbuzz % 5 == 0:
+        print("buzz")
+        continue
+    print(fizzbuzz)
+
+
 
 ```
